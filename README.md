@@ -1,4 +1,4 @@
 MyFirstRepository
 =================
 
-This is my second repository on GitHub and third at all
+This is my first repository on GitHub and third at all
